@@ -3137,8 +3137,8 @@ fieldset:disabled .btn {
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #F25835;
-  border-color: #F25835;
+  background-color: #2853bc;
+  border-color: #2853bc;
 }
 .btn-check:focus + .btn-primary,
 .btn-primary:focus {
@@ -8164,7 +8164,7 @@ fieldset:disabled .btn {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color: #F25835;
+  background-color: #2853bc;
 }
 
 .bg-secondary {
@@ -11600,7 +11600,7 @@ fieldset:disabled .btn {
 @media (min-width: 1200px) {
   .fs-1 {
     font-size: 2.5rem !important;
-    color: #F25835 !important ;
+    color: #2853bc !important ;
   }
 
   .fs-2 {
@@ -12006,7 +12006,7 @@ body {
 }
 .single-pricing a:hover,
 .single-pricing a:focus {
-  background: #F25835;
+  background: #2853bc;
   color: white;
 }
 .single-pricing-white {
